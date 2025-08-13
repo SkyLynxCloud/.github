@@ -28,6 +28,6 @@ A SkyLynxCloud foi criada para facilitar a vida de desenvolvedores, criadores de
 
 Entre em contato com nossa equipe:
 - 🌐 Site: www.skylynxcloud.com
-- 📧 E-mail: contact@skylynxcloud.com
+- 📧 E-mail: skylynx@skylynxcloud.com
 - 💬 Discord: em breve
 - 📱 WhatsApp: [+55 11 96307-5262](https://wa.me/5511963075262)
